@@ -1,2 +1,3 @@
-# nc_homework
-PostgreSQL (hw_1) and PL/SQL (hw_2) 
+# Домашняя работа по курсам Netcracker
+Домашняя работа №1 - PostgreSQL 
+Домашняя работа №2 - PL/SQL
